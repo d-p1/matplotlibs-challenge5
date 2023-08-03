@@ -1,7 +1,8 @@
 # matplotlibs-challenge5
 
 BACKGROUND
-You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. 
+
+  You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. 
 Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study.
 In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. 
@@ -12,16 +13,16 @@ The executive team has tasked you with generating all of the tables and figures 
 They have also asked you for a top-level summary of the study results.
 
 GOAL
--Prepare the data.
+  -Prepare the data.
 
--Generate summary statistics.
+  -Generate summary statistics.
 
--Create bar charts and pie charts.
+  -Create bar charts and pie charts.
 
--Calculate quartiles, find outliers, and create a box plot.
+  -Calculate quartiles, find outliers, and create a box plot.
 
--Create a line plot and a scatter plot.
+  -Create a line plot and a scatter plot.
 
--Calculate correlation and regression.
+  -Calculate correlation and regression.
 
--Submit your final analysis.
+  -Submit your final analysis.
